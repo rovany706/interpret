@@ -2,3 +2,4 @@
 # Distributed under the MIT software license
 
 from .response import ClassHistogram, Marginal  # noqa: F401
+from .subgroup import SubgroupDiscoveryExplainer
